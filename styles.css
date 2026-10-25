@@ -175,6 +175,7 @@ h2 {
 .proyecto-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    border-color: #667eea; /* Cambiado el color del borde al hacer hover */
 }
 
 .proyecto-card h3 {
